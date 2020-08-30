@@ -72,6 +72,8 @@ WSGI_APPLICATION = 'mvp_python_django.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/3.1/ref/settings/#databases
+# SQL -> MySQL, PostgreSQL
+# NoSQL -> MongoDB -> Djongo
 
 DATABASES = {
     'default': {
